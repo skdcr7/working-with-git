@@ -1,3 +1,5 @@
 Hello! This is Test 1.
 
 Adding one more line to this file
+
+Adding third line.
